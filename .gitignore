@@ -1,0 +1,117 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+pnpm-debug.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Logs
+logs
+*.log
+*.log.*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and editor-specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Build and output directories
+dist/
+build/
+out/
+release/
+
+# Compiled JavaScript files
+*.tsbuildinfo
+*.tscache
+*.js.map
+*.d.ts
+*.d.ts.map
+*.jsx.map
+*.mjs.map
+*.cjs.map
+
+# Environment variables
+.env
+.env.*
+.env.local
+
+# Electron-specific files
+electron-builder.yaml
+.electron-vue/
+release-builds/
+app/dist/
+app/build/
+app/node_modules/
+
+# macOS specific files
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# npm package files
+npm-shrinkwrap.json
+yarn.lock
+pnpm-lock.yaml
+
+# Sentry environment files
+.sentryclirc
+
+# Test files and coverage reports
+coverage/
+*.lcov
+*.lcov.info
+nyc_output/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Cache directories
+.cache/
+.venv/
+.pnp/
+.pnp.js
+.eslintcache
+
+# Dependency directories
+jspm_packages/
+vendor/
+
+# TypeScript specific files
+*.tsbuildinfo
+
+# Binaries for programs and packages
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+.history/
+.idea/
+
+# Electron Forge
+out/make/
+out/squirrel-windows/
+out/squirrel-macos/
+out/squirrel-linux/
+out/nsis-web/
+out/nsis/
+out/appimage/
+
+# Other build files
+build-release/
